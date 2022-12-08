@@ -1,0 +1,10 @@
+hide_reply_categories:
+  type: list
+  list_type: category
+  default: ""
+  description: "Certain buttons will be hidden on these categories."
+hide_reply_tags:
+  type: list
+  list_type: tag
+  default: ""
+  description: "Certain buttons will be hidden on these tags."
